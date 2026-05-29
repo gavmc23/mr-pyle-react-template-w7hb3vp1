@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://{user-name}.github.io/{repository}/",
+  "homepage": "https://gavmc23.github.io/mr-pyle-react-template-w7hb3vp1/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
